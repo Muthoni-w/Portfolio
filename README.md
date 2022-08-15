@@ -14,16 +14,16 @@ The results indicate that there are 116 outliers in the titanic dataset based on
 This is the use of NLP to identify emotions or attitudes towards a topic. Where expressions can be classified as ‘positive’, ‘negative’ or ‘neutral’ and give companies insight on how to enhance the customer experience. I used Open AI’s GPT 3 pretrained model to identify the sentiment of Amazon phone reviews.
 GPT-3 is a Generative Pre-trained language Model that uses deep learning to predict the next token. For sentiment analysis, I have provided an instruction text to show it what I expect it to do. Since this is a simple task, the model is easily able to understand what is expected of it.
 
-![](https://github.com/Muthoni-w/mw_projects/blob/main/images/label_3.PNG)
+![](/images/label_3.PNG)
 
 These are the parameters used. I used the Davinci model, although the curie model would still be able to perform this task. The Temperature setting has been set to 0 since the random aspect is not necessary for this specific dataset.
 
-![](https://github.com/Muthoni-w/mw_projects/blob/main/images/label_1.PNG)
+![](/images/label_1.PNG)
 
 The results indicate that a majority of the customers gave a positive review on the Xiaomi phones for the year 2018. With 34 giving a positive review, 5 neutral and 7 negative.
-![](https://github.com/Muthoni-w/mw_projects/blob/main/images/label_2.png)
+![](/images/label_2.png)
 
 ## Project 3: [Feature Selection using Random Forests](https://github.com/Muthoni-w/mw_projects/blob/main/classification.py)
 Feature selection is important in selecting relevant independent variables for a machine learning model. I used Random Forests to rank the importance of variables from the Titanic dataset. Feature selection is important for machine learning models to improve the learning accuracy by eliminating redundant and irrelevant features.
 Here's the order of feature importance.
-![](https://github.com/Muthoni-w/mw_projects/blob/main/images/label_4.png)
+![](/images/label_4.png)
