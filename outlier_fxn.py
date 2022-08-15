@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 #Read in the data
-df = pd.read_csv('C:\\Users\\Muthoni\\Downloads\\DS4B_101P_Course\\DS4B_101P_Course\\Project_4\\titanic_train.csv')
+df = pd.read_csv('titanic_train.csv')
 df
 x = df['Fare']
 
