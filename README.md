@@ -28,7 +28,7 @@ Feature selection is important in selecting relevant independent variables for a
 Here's the order of feature importance.
 ![](/images/label_4.png)
 
-## Project 4: [Revenue Forecast using AutoArima](https://github.com/Muthoni-w/mw_Portfolio/blob/main/classification.py)
+## Project 4: [Revenue Forecast using AutoArima](https://github.com/Muthoni-w/Portfolio/blob/main/forecast.ipynby)
 ARIMA(Autoregressive integrated moving average) is a statistical analysis model that uses time series data to predict future values based on the fact that past values have sufficient information.
 Parameters in the model are p, q and d.
 p - Order of the AR term
